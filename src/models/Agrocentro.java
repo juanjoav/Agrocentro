@@ -7,4 +7,8 @@
 package models;
 
 public class Agrocentro {
+
+    private Inventory inventory;
+    private Billing billing;
+    private Administrator admin;
 }
